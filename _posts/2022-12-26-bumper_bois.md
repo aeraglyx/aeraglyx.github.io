@@ -3,7 +3,9 @@ layout: post
 title:  "3D Printed Bumper Bois for Pint/X"
 ---
 
-WIP...
+
+![Pint X](PXL_20221111_175130477.jpg)
+
 
 > ## Credit where credit's due
 > To my knowledge Bumper Bois were originally developed by [Wheel Fun Stuff](https://www.wheelfunstuff.com/). I made my own, but did not come up with them! 
