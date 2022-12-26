@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Custom 3D printed "bumper bois" for Pint/X"
+title:  "Custom 3D printed bumper bois for Pint/X"
 ---
 
 <!-- # Blog test -->
