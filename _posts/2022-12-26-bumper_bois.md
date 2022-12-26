@@ -4,7 +4,7 @@ title:  "3D Printed Bumper Bois for Pint/X"
 ---
 
 
-![Pint X](PXL_20221111_175130477.jpg)
+![Pint X](/assets/images/PXL_20221111_175130477.jpg)
 
 
 > ## Credit where credit's due
